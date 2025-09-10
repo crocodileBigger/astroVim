@@ -6,6 +6,6 @@ sudo apt install nvim --classic
 
 mkdir -p ~/.config/
 
-git clone https://github.com/crocodileBigger/astroVim.git ~/.config/nvim
+mv astroVim ~/.config/nvim
 
 nvim
